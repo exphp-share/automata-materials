@@ -1,0 +1,762 @@
+===============================
+===============================
+SMALL SWORDS
+===============================
+===============================
+
+Beastbane
+
+Copper Ore x5
+Stretched Coil x3
+Pyrite x5
+
+Iron Ore x5
+Silver Ore x5
+Stripped Screw x3
+Meteorite Shard x1
+
+Gold Ore x2
+Stripped Screw x5
+Pristine Screw x3
+Machine Arm x2
+Meteorite x1
+
+===============================
+
+Engine Blade
+
+Rusted Clump x5
+Broken Circuit x5
+Pearl x3
+
+Dented Plate x4
+Titanium Alloy x3
+Broken Battery x3
+Black Pearl x2
+
+Memory Alloy x2
+Broken Battery x5
+Large Battery x3
+Machine Arm x2
+Moldavite x1
+
+===============================
+
+Faith
+
+Rusted Clump x5
+Warped Wire x3
+Pyrite x5
+
+Dented Plate x4
+Titanium Alloy x3
+Broken Battery x3
+Meteorite Shard x1
+
+Gold Ore x2
+Rusty Bolt x5
+New Bolt x3
+Machine Arm x2
+Meteorite x1
+
+===============================
+
+Type-4O Sword
+
+Rusted Clump x5
+Broken Circuit x5
+Pearl x3
+
+Dented Plate x4
+Titanium Alloy x3
+Broken Battery x3
+Black Pearl x2
+
+Memory Alloy x2
+Broken Battery x5
+Large Battery x3
+Machine Arm x2
+Meteorite x1
+
+===============================
+
+Type-3 Sword
+
+Copper Ore x5
+Broken Key x5
+Crystal x5
+
+Iron Ore x4
+Silver Ore x3
+Rusty Bolt x3
+Amber x2
+
+Gold Ore x2
+Rusty Bolt x5
+New Bolt x3
+Machine Arm x2
+Meteorite x1
+
+===============================
+
+Ancient Overlord
+
+Rusted Clump x5
+Broken Circuit x5
+Warped Wire x5
+
+Dented Plate x4
+Titanium Alloy x3
+Small Gear x3
+Amber x2
+
+Memory Alloy x2
+Small Gear x5
+Large Gear x3
+Machine Arm x2
+Meteorite x1
+
+===============================
+
+Virtuous Contract
+
+Rusted Clump x5
+Beast Hide x5
+Crystal x5
+
+Dented Plate x4
+Titanium Alloy x3
+Severed Cable x3
+Amber x2
+
+Memory Alloy x2
+Severed Cable x5
+Pristine Cable x3
+Machine Arm x2
+Moldavite x1
+
+===============================
+
+Cruel Oath
+
+Copper Ore x5
+Beast Hide x5
+Crystal x5
+
+Iron Ore x4
+Silver Ore x3
+Small Gear x3
+Amber x2
+
+Gold Ore x2
+Small Gear x5
+Large Gear x3
+Machine Arm x2
+Moldavite x1
+
+===============================
+
+YoRHa-Issue Blade
+
+Rusted Clump x5
+Stretched Coil x5
+Broken Key x5
+
+Dented Plate x4
+Titanium Alloy x3
+Rusty Bolt x3
+Pyrite x3
+
+Memory Alloy x2
+Rusty Bolt x5
+New Bolt x3
+Machine Arm x2
+Moldavite x1
+
+===============================
+
+Phoenix Dagger
+
+Rusted Clump x5
+Broken Circuit x5
+Pearl x5
+
+Dented Plate x4
+Titanium Alloy x3
+Crushed Nut x3
+Black Pearl x2
+
+Memory Alloy x2
+Crushed Nut x5
+Clean Nut x3
+Machine Arm x2
+Meteorite x1
+
+===============================
+
+Machine Sword
+
+Copper Ore x5
+Broken Key x5
+Crystal x5
+
+Iron Ore x4
+Silver Ore x3
+Dented Socket x3
+Amber x2
+
+Gold Ore x2
+Dented Socket x5
+Sturdy Socket x3
+Machine Arm x2
+Moldavite x1
+
+===============================
+
+Iron Pipe
+
+Copper Ore x5
+Broken Key x5
+Crystal x5
+
+Iron Ore x4
+Silver Ore x3
+Small Gear x3
+Amber x2
+
+Gold Ore x2
+Small Gear x5
+Large Gear x3
+Machine Arm x2
+Moldavite x1
+
+===============================
+
+Cypress Stick
+
+Copper Ore x5
+Broken Key x5
+Stretched Coil x5
+
+Iron Ore x4
+Silver Ore x3
+Severed Cable x3
+Pyrite x3
+
+Gold Ore x2
+Severed Cable x5
+Pristine Cable x3
+Machine Arm x2
+Moldavite x1
+
+===============================
+===============================
+LARGE SWORDS
+===============================
+===============================
+
+Iron Will
+
+Rusted Clump x5
+Broken Key x5
+Pyrite x5
+
+Dented Plate x4
+Titanium Alloy x3
+Broken Battery x3
+Meteorite Shard x1
+
+Memory Alloy x2
+Broken Battery x5
+Large Battery x3
+Machine Torso x2
+Meteorite x1
+
+===============================
+
+Fang of the Twins
+
+Copper Ore x5
+Broken Key x5
+Crystal x5
+
+Iron Ore x4
+Silver Ore x3
+Severed Cable x3
+Amber x2
+
+Gold Ore x2
+Severed Cable x5
+Pristine Cable x3
+Machine Torso x2
+Moldavite x1
+
+===============================
+
+Beastlord
+
+Copper Ore x5
+Pyrite x5
+Warped Wire x3
+
+Iron Ore x4
+Silver Ore x3
+Stripped Screw x3
+Meteorite Shard x1
+
+Gold Ore x2
+Stripped Screw x5
+Pristine Screw x3
+Machine Torso x2
+Meteorite x1
+
+===============================
+
+Phoenix Sword
+
+Rusted Clump x5
+Broken Circuit x5
+Pearl x3
+
+Dented Plate x4
+Titanium Alloy x3
+Crushed Nut x3
+Black Pearl x2
+
+Memory Alloy x2
+Crushed Nut x5
+Clean Nut x3
+Machine Torso x2
+Meteorite x1
+
+===============================
+
+Type-4O Blade
+
+Rusted Clump x5
+Broken Circuit x5
+Pearl x3
+
+Dented Plate x4
+Titanium Alloy x3
+Broken Battery x3
+Black Pearl x2
+
+Memory Alloy x2
+Broken Battery x5
+Large Battery x3
+Machine Torso x2
+Meteorite x1
+
+===============================
+
+Type-3 Blade
+
+Copper Ore x5
+Broken Key x5
+Crystal x5
+
+Iron Ore x4
+Silver Ore x3
+Rusty Bolt x3
+Amber x2
+
+Gold Ore x2
+Rusty Bolt x5
+New Bolt x3
+Machine Torso x2
+Meteorite x1
+
+===============================
+
+Virtuous Treaty
+
+Rusted Clump x5
+Beast Hide x5
+Crystal x5
+
+Dented Plate x4
+Titanium Alloy x3
+Warped Wire x5
+Amber x2
+
+Memory Alloy x2
+Severed Cable x5
+Pristine Cable x3
+Machine Arm x2
+Moldavite x1
+
+===============================
+
+Cruel Blood Oath
+
+Copper Ore x5
+Beast Hide x5
+Stretched Coil x5
+
+Dented Plate x4
+Titanium Alloy x3
+Small Gear x3
+Amber x2
+
+Memory Alloy x2
+Small Gear x5
+Large Gear x3
+Machine Arm x2
+Moldavite x1
+
+===============================
+
+Machine Axe
+
+Copper Ore x5
+Broken Key x5
+Crystal x5
+
+Iron Ore x4
+Silver Ore x3
+Dented Socket x3
+Amber x2
+
+Gold Ore x2
+Dented Socket x5
+Sturdy Socket x3
+Machine Torso x2
+Moldavite x1
+
+===============================
+===============================
+SPEARS
+===============================
+===============================
+
+Beastcurse
+
+Copper Ore x5
+Stretched Coil x5
+Pyrite x5
+
+Iron Ore x4
+Silver Ore x3
+Stripped Screw x3
+Meteorite Shard x1
+
+Gold Ore x2
+Stripped Screw x5
+Pristine Screw x3
+Machine Leg x2
+Meteorite x1
+
+===============================
+
+Dragoon Lance
+
+Rusted Clump x5
+Broken Circuit x5
+Warped Wire x5
+
+Dented Plate x4
+Titanium Alloy x3
+Crushed Nut x3
+Pyrite x2
+
+Memory Alloy x2
+Crushed Nut x5
+Clean Nut x3
+Machine Leg x2
+Meteorite x1
+
+===============================
+
+Phoenix Lance
+
+Rusted Clump x5
+Broken Circuit x5
+Pearl x3
+
+Dented Plate x4
+Titanium Alloy x3
+Crushed Nut x3
+Black Pearl x2
+
+Memory Alloy x2
+Crushed Nut x5
+Clean Nut x3
+Machine Leg x2
+Moldavite x1
+
+===============================
+
+Type-4O Lance
+
+Rusted Clump x5
+Broken Circuit x5
+Pearl x3
+
+Dented Plate x4
+Titanium Alloy x3
+Broken Battery x3
+Black Pearl x2
+
+Memory Alloy x2
+Broken Battery x5
+Large Battery x3
+Machine Leg x2
+Meteorite x1
+
+===============================
+
+Type-3 Lance
+
+Copper Ore x5
+Broken Key x5
+Crystal x5
+
+Iron Ore x4
+Silver Ore x3
+Rusty Bolt x3
+Amber x2
+
+Gold Ore x2
+Rusty Bolt x5
+New Bolt x3
+Machine Leg x2
+Meteorite x1
+
+===============================
+
+Spear of the Usurper
+
+Copper Ore x5
+Broken Key x5
+Stretched Coil x5
+
+Iron Ore x4
+Silver Ore x3
+Rusty Bolt x3
+Pyrite x2
+
+Gold Ore x2
+Rusty Bolt x5
+New Bolt x3
+Machine Leg x2
+Moldavite x1
+
+===============================
+
+Virtuous Dignity
+
+Rusted Clump x5
+Beast Hide x5
+Crystal x5
+
+Dented Plate x4
+Titanium Alloy x3
+Warped Wire x3
+Amber x2
+
+Memory Alloy x2
+Severed Cable x5
+Pristine Cable x3
+Machine Leg x2
+Moldavite x1
+
+===============================
+
+Cruel Arrogance
+
+Copper Ore x5
+Beast Hide x5
+Stretched Coil x5
+
+Iron Ore x4
+Silver Ore x3
+Small Gear x3
+Pyrite x2
+
+Gold Ore x2
+Small Gear x5
+Large Gear x3
+Machine Leg x2
+Moldavite x1
+
+===============================
+
+Machine Spear
+
+Copper Ore x5
+Broken Key x5
+Crystal x5
+
+Iron Ore x4
+Silver Ore x3
+Dented Socket x3
+Amber x2
+
+Gold Ore x2
+Dented Socket x5
+Sturdy Socket x3
+Machine Leg x2
+Moldavite x1
+
+===============================
+===============================
+COMBAT BRACERS
+===============================
+===============================
+
+Bare Fists
+
+===============================
+
+Angel's Folly
+
+Rusted Clump x5
+Warped Wire x3
+Pyrite x5
+
+Dented Plate x4
+Titanium Alloy x3
+Stripped Screw x3
+Meteorite Shard x1
+
+Memory Alloy x2
+Stripped Screw x5
+Pristine Screw x3
+Machine Head x2
+Meteorite x1
+
+===============================
+
+Demon's Cry
+
+Copper Ore x5
+Stretched Coil x3
+Pearl x3
+
+Iron Ore x4
+Silver Ore x3
+Small Gear x3
+Black Pearl x2
+
+Gold Ore x2
+Small Gear x5
+Large Gear x3
+Machine Head x2
+Meteorite x1
+
+===============================
+
+Type-4O Fists
+
+Rusted Clump x5
+Broken Circuit x5
+Pearl x3
+
+Dented Plate x4
+Titanium Alloy x3
+Broken Battery x3
+Black Pearl x2
+
+Memory Alloy x2
+Broken Battery x5
+Large Battery x3
+Machine Head x2
+Meteorite x1
+
+===============================
+
+Type-3 Fists
+
+Copper Ore x5
+Broken Key x5
+Crystal x5
+
+Iron Ore x4
+Silver Ore x3
+Rusty Bolt x3
+Amber x2
+
+Gold Ore x2
+Rusty Bolt x5
+New Bolt x3
+Machine Head x2
+Meteorite x1
+
+===============================
+
+Virtuous Grief
+
+Rusted Clump x5
+Beast Hide x5
+Crystal x5
+
+Dented Plate x4
+Titanium Alloy x3
+Severed Cable x3
+Amber x2
+
+Memory Alloy x2
+Severed Cable x5
+Pristine Cable x3
+Machine Head x2
+Moldavite x1
+
+===============================
+
+Cruel Lament
+
+Copper Ore x5
+Beast Hide x5
+Warped Wire x5
+
+Iron Ore x4
+Silver Ore x3
+Small Gear x3
+Pyrite x2
+
+Gold Ore x2
+Small Gear x5
+Large Gear x3
+Machine Head x2
+Moldavite x1
+
+===============================
+
+Machine Heads
+
+Copper Ore x5
+Broken Key x5
+Crystal x5
+
+Iron Ore x4
+Silver Ore x3
+Dented Socket x3
+Amber x2
+
+Gold Ore x2
+Dented Socket x5
+Sturdy Socket x3
+Machine Head x2
+Moldavite x1
+
+===============================
+
+Emil Heads
+
+Rusted Clump x5
+Broken Key x5
+Crystal x5
+
+Dented Plate x4
+Titanium Alloy x3
+Severed Cable x3
+Amber x2
+
+Memory Alloy x2
+Severed Cable x5
+Pristine Cable x3
+Machine Head x2
+Moldavite x1
+
+===============================

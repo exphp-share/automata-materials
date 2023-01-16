@@ -1,0 +1,588 @@
+- name: Beastbane
+  category: small swords
+  ingredients:
+  - Copper Ore: 5
+    Stretched Coil: 3
+    Pyrite: 5
+  - Iron Ore: 5
+    Silver Ore: 5
+    Stripped Screw: 3
+    Meteorite Shard: 1
+  - Gold Ore: 2
+    Stripped Screw: 5
+    Pristine Screw: 3
+    Machine Arm: 2
+    Meteorite: 1
+- name: Engine Blade
+  category: small swords
+  ingredients:
+  - Rusted Clump: 5
+    Broken Circuit: 5
+    Pearl: 3
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Broken Battery: 3
+    Black Pearl: 2
+  - Memory Alloy: 2
+    Broken Battery: 5
+    Large Battery: 3
+    Machine Arm: 2
+    Moldavite: 1
+- name: Faith
+  category: small swords
+  ingredients:
+  - Rusted Clump: 5
+    Warped Wire: 3
+    Pyrite: 5
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Broken Battery: 3
+    Meteorite Shard: 1
+  - Gold Ore: 2
+    Rusty Bolt: 5
+    New Bolt: 3
+    Machine Arm: 2
+    Meteorite: 1
+- name: Type-4O Sword
+  category: small swords
+  ingredients:
+  - Rusted Clump: 5
+    Broken Circuit: 5
+    Pearl: 3
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Broken Battery: 3
+    Black Pearl: 2
+  - Memory Alloy: 2
+    Broken Battery: 5
+    Large Battery: 3
+    Machine Arm: 2
+    Meteorite: 1
+- name: Type-3 Sword
+  category: small swords
+  ingredients:
+  - Copper Ore: 5
+    Broken Key: 5
+    Crystal: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Rusty Bolt: 3
+    Amber: 2
+  - Gold Ore: 2
+    Rusty Bolt: 5
+    New Bolt: 3
+    Machine Arm: 2
+    Meteorite: 1
+- name: Ancient Overlord
+  category: small swords
+  ingredients:
+  - Rusted Clump: 5
+    Broken Circuit: 5
+    Warped Wire: 5
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Small Gear: 3
+    Amber: 2
+  - Memory Alloy: 2
+    Small Gear: 5
+    Large Gear: 3
+    Machine Arm: 2
+    Meteorite: 1
+- name: Virtuous Contract
+  category: small swords
+  ingredients:
+  - Rusted Clump: 5
+    Beast Hide: 5
+    Crystal: 5
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Severed Cable: 3
+    Amber: 2
+  - Memory Alloy: 2
+    Severed Cable: 5
+    Pristine Cable: 3
+    Machine Arm: 2
+    Moldavite: 1
+- name: Cruel Oath
+  category: small swords
+  ingredients:
+  - Copper Ore: 5
+    Beast Hide: 5
+    Crystal: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Small Gear: 3
+    Amber: 2
+  - Gold Ore: 2
+    Small Gear: 5
+    Large Gear: 3
+    Machine Arm: 2
+    Moldavite: 1
+- name: YoRHa-Issue Blade
+  category: small swords
+  ingredients:
+  - Rusted Clump: 5
+    Stretched Coil: 5
+    Broken Key: 5
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Rusty Bolt: 3
+    Pyrite: 3
+  - Memory Alloy: 2
+    Rusty Bolt: 5
+    New Bolt: 3
+    Machine Arm: 2
+    Moldavite: 1
+- name: Phoenix Dagger
+  category: small swords
+  ingredients:
+  - Rusted Clump: 5
+    Broken Circuit: 5
+    Pearl: 5
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Crushed Nut: 3
+    Black Pearl: 2
+  - Memory Alloy: 2
+    Crushed Nut: 5
+    Clean Nut: 3
+    Machine Arm: 2
+    Meteorite: 1
+- name: Machine Sword
+  category: small swords
+  ingredients:
+  - Copper Ore: 5
+    Broken Key: 5
+    Crystal: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Dented Socket: 3
+    Amber: 2
+  - Gold Ore: 2
+    Dented Socket: 5
+    Sturdy Socket: 3
+    Machine Arm: 2
+    Moldavite: 1
+- name: Iron Pipe
+  category: small swords
+  ingredients:
+  - Copper Ore: 5
+    Broken Key: 5
+    Crystal: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Small Gear: 3
+    Amber: 2
+  - Gold Ore: 2
+    Small Gear: 5
+    Large Gear: 3
+    Machine Arm: 2
+    Moldavite: 1
+- name: Cypress Stick
+  category: small swords
+  ingredients:
+  - Copper Ore: 5
+    Broken Key: 5
+    Stretched Coil: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Severed Cable: 3
+    Pyrite: 3
+  - Gold Ore: 2
+    Severed Cable: 5
+    Pristine Cable: 3
+    Machine Arm: 2
+    Moldavite: 1
+- name: Iron Will
+  category: large swords
+  ingredients:
+  - Rusted Clump: 5
+    Broken Key: 5
+    Pyrite: 5
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Broken Battery: 3
+    Meteorite Shard: 1
+  - Memory Alloy: 2
+    Broken Battery: 5
+    Large Battery: 3
+    Machine Torso: 2
+    Meteorite: 1
+- name: Fang of the Twins
+  category: large swords
+  ingredients:
+  - Copper Ore: 5
+    Broken Key: 5
+    Crystal: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Severed Cable: 3
+    Amber: 2
+  - Gold Ore: 2
+    Severed Cable: 5
+    Pristine Cable: 3
+    Machine Torso: 2
+    Moldavite: 1
+- name: Beastlord
+  category: large swords
+  ingredients:
+  - Copper Ore: 5
+    Pyrite: 5
+    Warped Wire: 3
+  - Iron Ore: 4
+    Silver Ore: 3
+    Stripped Screw: 3
+    Meteorite Shard: 1
+  - Gold Ore: 2
+    Stripped Screw: 5
+    Pristine Screw: 3
+    Machine Torso: 2
+    Meteorite: 1
+- name: Phoenix Sword
+  category: large swords
+  ingredients:
+  - Rusted Clump: 5
+    Broken Circuit: 5
+    Pearl: 3
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Crushed Nut: 3
+    Black Pearl: 2
+  - Memory Alloy: 2
+    Crushed Nut: 5
+    Clean Nut: 3
+    Machine Torso: 2
+    Meteorite: 1
+- name: Type-4O Blade
+  category: large swords
+  ingredients:
+  - Rusted Clump: 5
+    Broken Circuit: 5
+    Pearl: 3
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Broken Battery: 3
+    Black Pearl: 2
+  - Memory Alloy: 2
+    Broken Battery: 5
+    Large Battery: 3
+    Machine Torso: 2
+    Meteorite: 1
+- name: Type-3 Blade
+  category: large swords
+  ingredients:
+  - Copper Ore: 5
+    Broken Key: 5
+    Crystal: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Rusty Bolt: 3
+    Amber: 2
+  - Gold Ore: 2
+    Rusty Bolt: 5
+    New Bolt: 3
+    Machine Torso: 2
+    Meteorite: 1
+- name: Virtuous Treaty
+  category: large swords
+  ingredients:
+  - Rusted Clump: 5
+    Beast Hide: 5
+    Crystal: 5
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Warped Wire: 5
+    Amber: 2
+  - Memory Alloy: 2
+    Severed Cable: 5
+    Pristine Cable: 3
+    Machine Arm: 2
+    Moldavite: 1
+- name: Cruel Blood Oath
+  category: large swords
+  ingredients:
+  - Copper Ore: 5
+    Beast Hide: 5
+    Stretched Coil: 5
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Small Gear: 3
+    Amber: 2
+  - Memory Alloy: 2
+    Small Gear: 5
+    Large Gear: 3
+    Machine Arm: 2
+    Moldavite: 1
+- name: Machine Axe
+  category: large swords
+  ingredients:
+  - Copper Ore: 5
+    Broken Key: 5
+    Crystal: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Dented Socket: 3
+    Amber: 2
+  - Gold Ore: 2
+    Dented Socket: 5
+    Sturdy Socket: 3
+    Machine Torso: 2
+    Moldavite: 1
+- name: Beastcurse
+  category: spears
+  ingredients:
+  - Copper Ore: 5
+    Stretched Coil: 5
+    Pyrite: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Stripped Screw: 3
+    Meteorite Shard: 1
+  - Gold Ore: 2
+    Stripped Screw: 5
+    Pristine Screw: 3
+    Machine Leg: 2
+    Meteorite: 1
+- name: Dragoon Lance
+  category: spears
+  ingredients:
+  - Rusted Clump: 5
+    Broken Circuit: 5
+    Warped Wire: 5
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Crushed Nut: 3
+    Pyrite: 2
+  - Memory Alloy: 2
+    Crushed Nut: 5
+    Clean Nut: 3
+    Machine Leg: 2
+    Meteorite: 1
+- name: Phoenix Lance
+  category: spears
+  ingredients:
+  - Rusted Clump: 5
+    Broken Circuit: 5
+    Pearl: 3
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Crushed Nut: 3
+    Black Pearl: 2
+  - Memory Alloy: 2
+    Crushed Nut: 5
+    Clean Nut: 3
+    Machine Leg: 2
+    Moldavite: 1
+- name: Type-4O Lance
+  category: spears
+  ingredients:
+  - Rusted Clump: 5
+    Broken Circuit: 5
+    Pearl: 3
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Broken Battery: 3
+    Black Pearl: 2
+  - Memory Alloy: 2
+    Broken Battery: 5
+    Large Battery: 3
+    Machine Leg: 2
+    Meteorite: 1
+- name: Type-3 Lance
+  category: spears
+  ingredients:
+  - Copper Ore: 5
+    Broken Key: 5
+    Crystal: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Rusty Bolt: 3
+    Amber: 2
+  - Gold Ore: 2
+    Rusty Bolt: 5
+    New Bolt: 3
+    Machine Leg: 2
+    Meteorite: 1
+- name: Spear of the Usurper
+  category: spears
+  ingredients:
+  - Copper Ore: 5
+    Broken Key: 5
+    Stretched Coil: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Rusty Bolt: 3
+    Pyrite: 2
+  - Gold Ore: 2
+    Rusty Bolt: 5
+    New Bolt: 3
+    Machine Leg: 2
+    Moldavite: 1
+- name: Virtuous Dignity
+  category: spears
+  ingredients:
+  - Rusted Clump: 5
+    Beast Hide: 5
+    Crystal: 5
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Warped Wire: 3
+    Amber: 2
+  - Memory Alloy: 2
+    Severed Cable: 5
+    Pristine Cable: 3
+    Machine Leg: 2
+    Moldavite: 1
+- name: Cruel Arrogance
+  category: spears
+  ingredients:
+  - Copper Ore: 5
+    Beast Hide: 5
+    Stretched Coil: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Small Gear: 3
+    Pyrite: 2
+  - Gold Ore: 2
+    Small Gear: 5
+    Large Gear: 3
+    Machine Leg: 2
+    Moldavite: 1
+- name: Machine Spear
+  category: spears
+  ingredients:
+  - Copper Ore: 5
+    Broken Key: 5
+    Crystal: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Dented Socket: 3
+    Amber: 2
+  - Gold Ore: 2
+    Dented Socket: 5
+    Sturdy Socket: 3
+    Machine Leg: 2
+    Moldavite: 1
+- name: Bare Fists
+  category: combat bracers
+  ingredients: []
+- name: Angel's Folly
+  category: combat bracers
+  ingredients:
+  - Rusted Clump: 5
+    Warped Wire: 3
+    Pyrite: 5
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Stripped Screw: 3
+    Meteorite Shard: 1
+  - Memory Alloy: 2
+    Stripped Screw: 5
+    Pristine Screw: 3
+    Machine Head: 2
+    Meteorite: 1
+- name: Demon's Cry
+  category: combat bracers
+  ingredients:
+  - Copper Ore: 5
+    Stretched Coil: 3
+    Pearl: 3
+  - Iron Ore: 4
+    Silver Ore: 3
+    Small Gear: 3
+    Black Pearl: 2
+  - Gold Ore: 2
+    Small Gear: 5
+    Large Gear: 3
+    Machine Head: 2
+    Meteorite: 1
+- name: Type-4O Fists
+  category: combat bracers
+  ingredients:
+  - Rusted Clump: 5
+    Broken Circuit: 5
+    Pearl: 3
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Broken Battery: 3
+    Black Pearl: 2
+  - Memory Alloy: 2
+    Broken Battery: 5
+    Large Battery: 3
+    Machine Head: 2
+    Meteorite: 1
+- name: Type-3 Fists
+  category: combat bracers
+  ingredients:
+  - Copper Ore: 5
+    Broken Key: 5
+    Crystal: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Rusty Bolt: 3
+    Amber: 2
+  - Gold Ore: 2
+    Rusty Bolt: 5
+    New Bolt: 3
+    Machine Head: 2
+    Meteorite: 1
+- name: Virtuous Grief
+  category: combat bracers
+  ingredients:
+  - Rusted Clump: 5
+    Beast Hide: 5
+    Crystal: 5
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Severed Cable: 3
+    Amber: 2
+  - Memory Alloy: 2
+    Severed Cable: 5
+    Pristine Cable: 3
+    Machine Head: 2
+    Moldavite: 1
+- name: Cruel Lament
+  category: combat bracers
+  ingredients:
+  - Copper Ore: 5
+    Beast Hide: 5
+    Warped Wire: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Small Gear: 3
+    Pyrite: 2
+  - Gold Ore: 2
+    Small Gear: 5
+    Large Gear: 3
+    Machine Head: 2
+    Moldavite: 1
+- name: Machine Heads
+  category: combat bracers
+  ingredients:
+  - Copper Ore: 5
+    Broken Key: 5
+    Crystal: 5
+  - Iron Ore: 4
+    Silver Ore: 3
+    Dented Socket: 3
+    Amber: 2
+  - Gold Ore: 2
+    Dented Socket: 5
+    Sturdy Socket: 3
+    Machine Head: 2
+    Moldavite: 1
+- name: Emil Heads
+  category: combat bracers
+  ingredients:
+  - Rusted Clump: 5
+    Broken Key: 5
+    Crystal: 5
+  - Dented Plate: 4
+    Titanium Alloy: 3
+    Severed Cable: 3
+    Amber: 2
+  - Memory Alloy: 2
+    Severed Cable: 5
+    Pristine Cable: 3
+    Machine Head: 2
+    Moldavite: 1
