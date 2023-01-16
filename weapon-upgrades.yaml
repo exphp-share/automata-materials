@@ -586,3 +586,57 @@
     Pristine Cable: 3
     Machine Head: 2
     Moldavite: 1
+- name: Pod A
+  category: pods
+  ingredients:
+  - Tree Seed: 10
+    Mushroom: 10
+    Pure Water: 10
+    Natural Rubber: 10
+    Powerup Part S: 1
+  - Plant Seed: 5
+    Eagle Eggs: 5
+    Tanning Agent: 5
+    Filler Metal: 5
+    Powerup Part M: 1
+  - Tree Sap: 3
+    Giant Eggs: 3
+    Dye: 3
+    Machine Oil: 3
+    Powerup Part L: 1
+- name: Pod B
+  category: pods
+  ingredients:
+  - Tree Seed: 10
+    Torn Book: 10
+    Natural Rubber: 10
+    Simple Gadget: 10
+    Powerup Part S: 1
+  - Plant Seed: 5
+    Tech Manual: 5
+    Filler Metal: 5
+    Elaborate Gadget: 5
+    Powerup Part M: 1
+  - Tree Sap: 3
+    Thick Dictionary: 3
+    Machine Oil: 3
+    Complex Gadget: 3
+    Powerup Part L: 1
+- name: Pod C
+  category: pods
+  ingredients:
+  - Mushroom: 10
+    Torn Book: 10
+    Pure Water: 10
+    Simple Gadget: 10
+    Powerup Part S: 1
+  - Eagle Eggs: 5
+    Tech Manual: 5
+    Tanning Agent: 5
+    Elaborate Gadget: 5
+    Powerup Part M: 1
+  - Giant Eggs: 3
+    Thick Dictionary: 3
+    Dye: 3
+    Complex Gadget: 3
+    Powerup Part L: 1

@@ -760,3 +760,73 @@ Machine Head x2
 Moldavite x1
 
 ===============================
+===============================
+PODS
+===============================
+===============================
+
+Pod A
+
+Tree Seed x10
+Mushroom x10
+Pure Water x10
+Natural Rubber x10
+Powerup Part S x1
+
+Plant Seed x5
+Eagle Eggs x5
+Tanning Agent x5
+Filler Metal x5
+Powerup Part M x1
+
+Tree Sap x3
+Giant Eggs x3
+Dye x3
+Machine Oil x3
+Powerup Part L x1
+
+===============================
+
+Pod B
+
+Tree Seed x10
+Torn Book x10
+Natural Rubber x10
+Simple Gadget x10
+Powerup Part S x1
+
+Plant Seed x5
+Tech Manual x5
+Filler Metal x5
+Elaborate Gadget x5
+Powerup Part M x1
+
+Tree Sap x3
+Thick Dictionary x3
+Machine Oil x3
+Complex Gadget x3
+Powerup Part L x1
+
+===============================
+
+Pod C
+
+Mushroom x10
+Torn Book x10
+Pure Water x10
+Simple Gadget x10
+Powerup Part S x1
+
+Eagle Eggs x5
+Tech Manual x5
+Tanning Agent x5
+Elaborate Gadget x5
+Powerup Part M x1
+
+Giant Eggs x3
+Thick Dictionary x3
+Dye x3
+Complex Gadget x3
+Powerup Part L x1
+
+===============================
