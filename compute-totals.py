@@ -14,7 +14,7 @@ def main():
     parser = argparse.ArgumentParser(
         description='compute total weapon upgrade requirements',
     )
-    parser.add_argument('--file', default='weapon-upgrades.yaml', help='ingredients yaml file')
+    parser.add_argument('--file', default='data/weapon-upgrades.yaml', help='ingredients yaml file')
     parser.add_argument('--current-levels', metavar='YAMLFILE', help='read current levels from a YAML file, so that the displayed counts do not count upgrades you already have')
     parser.add_argument('--markdown', action='store_true')
     parser.add_argument('--item-list', dest='order_file', metavar='TXTFILE', help='order the ingredients by this file')

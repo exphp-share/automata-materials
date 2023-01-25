@@ -16,8 +16,8 @@ def main():
     parser = argparse.ArgumentParser(
         description='convert ingredients txt to yaml',
     )
-    parser.add_argument('INPUT', nargs='?', default='weapon-upgrades.txt', type=str)
-    parser.add_argument('--output', '-o', default='weapon-upgrades.yaml', type=str)
+    parser.add_argument('INPUT', nargs='?', default='data/weapon-upgrades.txt', type=str)
+    parser.add_argument('--output', '-o', default='data/weapon-upgrades.yaml', type=str)
     parser.add_argument('--debug', action='store_true', help='print debugging messages')
     args = parser.parse_args()
 

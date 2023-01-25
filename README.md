@@ -71,13 +71,13 @@ There are additional features:
 
 * **Exclude costs of upgrades you already have:** Supply `--current-levels current-levels.yaml`, where `current-levels.yaml` is a YAML mapping of weapon names to their current upgrade levels.
 * **Filter or reorder the output:** Supply `--item-list itemlist.txt` to display the items in the order from that file. (without this, default is to sort descending by count).  Some item lists are included:
-  * `itemlist-all.txt`: all ingredients, in menu display order (on PC)
-  * `itemlist-emil.txt`: ingredients that can be bought from Emil's alternate route shop
+  * `data/itemlist-all.txt`: all ingredients, in menu display order (on PC)
+  * `data/itemlist-emil.txt`: ingredients that can be bought from Emil's alternate route shop
 
 **Example:** Suppose you want to know how many of each ingredient you need to buy from Emil's (outrageously expensive) precious materials shop:
 
 ```
-$ python3 compute-totals.py --current-levels current-levels.yaml --item-list itemlist-emil.txt
+$ python3 compute-totals.py --current-levels current-levels.yaml --item-list data/itemlist-emil.txt
   Memory Alloy : 18
 Pristine Screw : 9
     Large Gear : 12
