@@ -780,7 +780,7 @@ Filler Metal x5
 Powerup Part M x1
 
 Tree Sap x3
-Giant Eggs x3
+Giant Egg x3
 Dye x3
 Machine Oil x3
 Powerup Part L x1
@@ -823,7 +823,7 @@ Tanning Agent x5
 Elaborate Gadget x5
 Powerup Part M x1
 
-Giant Eggs x3
+Giant Egg x3
 Thick Dictionary x3
 Dye x3
 Complex Gadget x3
