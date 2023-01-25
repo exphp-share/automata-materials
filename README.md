@@ -64,3 +64,26 @@ Script output:
 |   Powerup Part S |   3 |
 |   Powerup Part M |   3 |
 |   Powerup Part L |   3 |
+
+## Extended usage
+
+There are additional features:
+
+* **Exclude costs of upgrades you already have:** Supply `--current-levels current-levels.yaml`, where `current-levels.yaml` is a YAML mapping of weapon names to their current upgrade levels.
+* **Filter or reorder the output:** Supply `--item-list itemlist.txt` to display the items in the order from that file. (without this, default is to sort descending by count).  Some item lists are included:
+  * `itemlist-all.txt`: all ingredients, in menu display order (on PC)
+  * `itemlist-emil.txt`: ingredients that can be bought from Emil's alternate route shop
+
+**Example:** Suppose you want to know how many of each ingredient you need to buy from Emil's (outrageously expensive) precious materials shop:
+
+```
+$ python3 compute-totals.py --current-levels current-levels.yaml --item-list itemlist-emil.txt
+  Memory Alloy : 18
+Pristine Screw : 9
+    Large Gear : 12
+      New Bolt : 12
+     Clean Nut : 6
+ Sturdy Socket : 9
+Pristine Cable : 6
+ Large Battery : 6
+```

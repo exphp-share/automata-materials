@@ -1,0 +1,60 @@
+Copper Ore
+Iron Ore
+Silver Ore
+Gold Ore
+Rusted Clump
+Dented Plate
+Titanium Alloy
+Memory Alloy
+Beast Hide
+Broken Key
+Warped Wire
+Stretched Coil
+Broken Circuit
+Stripped Screw
+Pristine Screw
+Small Gear
+Large Gear
+Rusty Bolt
+New Bolt
+Crushed Nut
+Clean Nut
+Dented Socket
+Sturdy Socket
+Severed Cable
+Pristine Cable
+Broken Battery
+Large Battery
+Machine Arm
+Machine Leg
+Machine Torso
+Machine Head
+Crystal
+Pearl
+Black Pearl
+Pyrite
+Amber
+Moldavite
+Meteorite
+Meteorite Shard
+Simple Gadget
+Elaborate Gadget
+Complex Gadget
+Powerup Part S
+Powerup Part M
+Powerup Part L
+Tree Seed
+Plant Seed
+Tree Sap
+Mushroom
+Eagle Eggs
+Giant Egg
+Torn Book
+Tech Manual
+Thick Dictionary
+Pure Water
+Tanning Agent
+Dye
+Natural Rubber
+Machine Oil
+Filler Metal
